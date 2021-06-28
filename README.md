@@ -17,6 +17,8 @@ I used the python environment to perform my actions needed to complete this repo
 
 ![Preview of the Bar Plot created from this project.](https://github.com/micgonzalez/MySQL-Database-Visualizations/blob/main/mysql_employees_db/mysql_employees_bar_chart.png)
 
+This Bar Plot was created from this project to show the different types of job IDs found in this dataset to the public.
+
 
 # Findings
 The dataset was located on a remote MySQL Database that I was tasked to pull data from this database and create data visulizations. This repository demonstrates my ability in dealing with this type of dataset. Retrieving data from a database is becoming the normal way of pulling data and this will help in displaying how I dealt with this task.
